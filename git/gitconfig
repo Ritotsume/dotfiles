@@ -91,3 +91,6 @@
     rebase = false
 [init]
     defaultBranch = main
+[user]
+	email = gian@email.com
+	name = Gian
