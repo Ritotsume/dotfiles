@@ -63,7 +63,7 @@
 [core]
     editor = nvim
     excludesfile = ~/.gitignore_global
-    pager = delta
+	pager = delta
 [diff]
     tool = vimdiff
 [fetch]
@@ -91,3 +91,29 @@
     rebase = false
 [init]
     defaultBranch = main
+[user]
+	email = gianfrancesco@outlook.com
+	name = Gian
+	signingkey = Gianfrancesco Scardova <gianfrancesco@outlook.com>
+[safe]
+	directory = /var/www/html
+	directory = *
+	directory = *
+	directory = *
+	directory = *
+	directory = *
+	directory = /var/www/html
+	directory = *
+	directory = *
+	directory = *
+	directory = *
+	directory = *
+	directory = *
+	directory = *
+	directory = *
+	directory = *
+	directory = *
+	directory = *
+	directory = *
+[credential]
+	helper = /usr/lib/git-core/git-credential-libsecret
